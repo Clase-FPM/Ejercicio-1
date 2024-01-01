@@ -1,0 +1,2 @@
+# Ejercicio 1
+Necesitas realizar una calculadora la cual tenga opciones de sumar, restar, multiplicar y que le pregunte al usuario ¿Que quieres hacer? la respuesta la guardamos en una variable y la usamos para realizar las condiciones correspondientes y una vez sabido lo que tenemos que hacer ejecutaremos 2 preguntas mas una para un numero y otra para otro numero.
